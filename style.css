@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#title {
+    background-color: lightpink;
+    color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+#subtitle {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 300;
+}
+div {
+    font-size: 16px;
+    font-weight: 100;
+}
+.links {
+    color: darkblue;
+}
+.photo {
+    height: auto;
+    width: 300px;
+    text-align: center;
+}
